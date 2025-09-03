@@ -1,1 +1,1 @@
-# Backend fro vadodara hackathon 
+# Backend for vadodara hackathon 
